@@ -1,5 +1,5 @@
-# state-container
-Containerised state management
+# State Container
+Containerised statement management
 
 ```sh
 docker build -t state .
